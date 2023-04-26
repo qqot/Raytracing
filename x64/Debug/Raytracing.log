@@ -1,2 +1,5 @@
 ﻿  hittable_list.cpp
+  main.cpp
+  sphere.cpp
+  正在生成代码...
   Raytracing.vcxproj -> C:\wzw\Raytracing\Raytracing\x64\Debug\Raytracing.exe
